@@ -21,4 +21,4 @@ En primer lugar, aplicamos una solución bastante sencilla. Se recibe una prompt
 
 ### Approach 2: Entrenamiento de Modelo
 
-En segundo lugar, se busco entrenar algún modelo con el dataset creado.
+En segundo lugar, se busco entrenar algún modelo con el dataset creado. Se usa el mismo dataset, pero se equilibra el número de muestras por clase. Se utiliza el modelo llamado 'DistilBERT' utilizando 6 *epochs* y el optimizador Adam. Posteriormente, se guarda el modelo para su prueba con distintos prompts. Cabe añadir que nos vimos limitados por la memoria disponible en collab, por lo que tuvimos que elegir un modelo que no ocupara toda la memoria pero fuera lo más complejo posible. [Notebook](solucion_modelo.ipynb)
