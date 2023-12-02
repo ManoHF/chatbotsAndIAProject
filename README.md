@@ -5,7 +5,8 @@ Integrantes:
 * Manuel Hermida - 189702
 * Paulina Garza - 188456
 * Montserrat Olivares
-* Iván Valadez
+* Iván Valadez - 195717
+  
 
 ## Introducción
 https://www.canva.com/design/DAF1zrvUAvY/wBERndJQtFIMPr1F0-Thng/view?utm_content=DAF1zrvUAvY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel 
