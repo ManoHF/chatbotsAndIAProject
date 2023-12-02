@@ -7,6 +7,9 @@ Integrantes:
 * Montserrat Olivares
 * Iván Valadez
 
+## Introducción
+https://www.canva.com/design/DAF1zrvUAvY/wBERndJQtFIMPr1F0-Thng/view?utm_content=DAF1zrvUAvY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel 
+
 ## Generación del Dataset
 
 Como primer paso del proyecto se debe crear un dataset que contenga las emociones relacionadas con cada canción. En el repo se incluye el excel resultante de este proceso que puede tardar horas si uno quiere etiquetar todas las canciones. Así, pueden aprovechar su tiempo de una mejor manera.
