@@ -25,6 +25,8 @@ Por lo tanto, si usted gusta, ejecute `tag_emotions_to_songs.ipynb` y detenga el
 
 ## Soluciones
 
+**HuggingFace**: [modelo](https://huggingface.co/manoh2f2/recommend_songs)
+
 ### Approach 1: Cache
 
 En primer lugar, aplicamos una solución bastante sencilla. Se recibe una prompt del usuario que es etiquetada de las misma forma que las canciones. Posteriormente, se hace un *match* en el dataset para elegir una canción relacionada. [Notebook](solucion_cache.ipynb)
